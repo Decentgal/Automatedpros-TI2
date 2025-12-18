@@ -27,4 +27,6 @@ This project automates the creation of a secure network and compute layer design
 1. Initialize Terraform: `terraform init`
 2. Preview the build: `terraform plan`
 3. Deploy to AWS: `terraform apply --auto-approve`
-4. Access the site via the Load Balancer DNS output.
+4. Access the site via the Load Balancer DNS record
+<img width="1365" height="724" alt="111" src="https://github.com/user-attachments/assets/fe516fce-be0a-4aa5-b5ac-676d83f75bf5" />
+
